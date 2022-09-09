@@ -9,4 +9,8 @@ The framework could automatically discover the hidden knowledge by association r
 
 To verify the reliability and practicality of the proposed framework, we take Manchu genealogy as the experimental data to show how to construct and visualize a genealogical knowledge graph from raw data. 
 
-The experiment results are showed in this repository. And the whole paper is under revision in Library Hi Tech.
+The experiment results are showed in this repository. 
+
+The whole paper is under revision in Library Hi Tech. Once it is accepted, we will share more details and the dataset we used.
+
+
