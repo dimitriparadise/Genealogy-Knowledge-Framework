@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Knowledge Reasoning for Manchu Genealogy Archives</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.1.2/dist/echarts.min.js"></script>
+</head>
+ 
+<body>
+<div id="main" style="width:2000px;height:1500px"></div>
+<script type="text/javascript">
+    var myChart = echarts.init(document.getElementById('main'));
+    var option;
+    option= {
+        // 图的标题
+        backgroundColor:'#fcfaff',//背景颜色
+        // 提示框的配置
+        tooltip: {
+            formatter: function (x) {
+                return 'Attributes: '+x.data.des;
+            }
+        },
+        // 工具箱
+        toolbox: {
+            // 显示工具箱
+            show: true,
+            feature: {
+                mark: {
+                    show: true
+                },
+                // 还原
+                restore: {
+                    show: true
+                },
+                // 保存为图片
+                saveAsImage: {
+                    show: true
+                }
+            }
+        },
+        series: [{
+            type: 'graph', layout: 'force', symbolSize: 50, roam: true, draggable: true,edgeSymbol: ['circle', 'arrow'],
+            emphasis:{
+                focus:'adjacency'},
+            edgeSymbolSize: [2, 5],
+            force: {
+                repulsion: 4000,edgeLength: [300, 350]},
+            lineStyle: {
+                normal: {
+                    width: 1.5,color: '#3b3a3e',curveness:0.3,opacity:0.9}
+            },
+            edgeLabel: {//线上的标签
+                normal: {
+                    show: true,fontSize:12,
+                    formatter: function (x) {
+                        return x.data.name;}
+                }
+            },
+            itemStyle:{
+                normal:{
+                    color:'#3b3a3e'}
+            },
+            label: {//节点上的标签
+                normal: {
+                    show: true,
+                    textStyle: {
+                        fontSize:13}
+                }
+            },
+ 
+            // 数据
+            data: [{
+                     name: 'Zhucha',
+                     des: 'male',
+                     },
+                    {
+                     name: 'Nahai',
+                     des: 'male',
+                     },
+                    {
+                     name: 'Suoerda',
+                     des: 'male',
+                     },
+                    {
+                     name: 'Mangkani',
+                     des: 'male',
+                     },
+                    {
+                     name: 'LuoluoMoergen',
+                     des: 'male',
+                     },
+                    {
+                     name: 'ChangkaniMoergen',
+                     des: 'male',
+                     },
+                    {
+                     name: 'Suoerguo',
+                     des: 'male',
+                     },
+                    {
+                     name: 'FeiyingdongZhaerguqi',
+                     des: 'male',
+                     },
+                    {
+                     name: 'Guerhan',
+                     des: 'male',
+                     },
+                    {
+                     name: 'Gusu',
+                     des: 'male',
+                     },
+                    {
+                     name: 'Laxitai',
+                     des: 'male',
+                     },
+                    {
+name: 'Yidonge',
+des: 'male'
+    },
+{
+name: 'Zheerbu',
+des: 'male'
+    },
+{
+name: 'Zhelenge',
+des: 'male'
+},
+{
+name: 'Suohai',
+des: 'male'
+    },
+{
+name: 'Duopoluo',
+des: 'male'
+    },
+{
+name: 'Daochan',
+des: 'male'
+    },
+{
+name: 'Duoertai',
+des: 'male'
+    },
+{
+name: 'Jilabu',
+des: 'male'
+    },
+{
+name: 'Wanzhu',
+des: 'male'
+    },
+{
+name: 'Laba',
+des: 'male'
+    },
+{
+name: 'Zhuntibao',
+des: 'male'
+    },
+{
+name: 'Dening',
+des: 'male'
+    }],
+                links:[
+                    {
+                     source: 'Zhucha',
+                     target: 'Nahai',
+                     name: 'has_fifth_great_grandson',
+                     des:'has_fifth_great_grandson'
+                    },
+                    {
+                     source: 'Suoerda',
+                     target: 'Nahai',
+                     name: 'has_fourth_great_grandson',
+                     des:'has_fourth_great_grandson'
+                    },
+                    {
+                     source: 'Mangkani',
+                     target: 'Nahai',
+                     name: 'has_third_great_grandson',
+                     des:'has_third_great_grandson'
+                    },
+                    {
+                     source: 'LuoluoMoergen',
+                     target: 'Nahai',
+                     name: 'has_second_great_grandson',
+                     des:'has_second_great_grandson'
+                    },
+                    {
+                     source: 'ChangkaniMoergen',
+                     target: 'Nahai',
+                     name: 'has_great_grandson',
+                     des:'has_great_grandson'
+                    },
+                    {
+                     source: 'Suoerguo',
+                     target: 'Nahai',
+                     name: 'has_grandson',
+                     des:'has_grandson'
+                    },
+                    {
+                     source: 'FeiyingdongZhaerguqi',
+                     target: 'Nahai',
+                     name: 'has_son',
+                     des:'has_son'
+                    },
+                    {
+                     source: 'Zhucha',
+                     target: 'Guerhan',
+                     name: 'has_sixth_great_grandson',
+                     des:'has_sixth_great_grandson'
+                    },
+                    {
+                     source: 'Suoerda',
+                     target: 'Guerhan',
+                     name: 'has_fifth_great_grandson',
+                     des:'has_fifth_great_grandson'
+                    },
+                    {
+                    source: 'Mangkani',
+                    target: 'Guerhan',
+                    name: 'has_fourth_great_grandson',
+                    des:'has_fourth_great_grandson'
+                    },
+                    {
+                     source: 'LuoluoMoergen',
+                     target: 'Guerhan',
+                     name: 'has_third_great_grandson',
+                     des:'has_third_great_grandson'
+                    },
+                    {
+                     source: 'ChangkaniMoergen',
+                     target: 'Guerhan',
+                     name: 'has_second_great_grandson',
+                     des:'has_second_great_grandson'
+                    },
+                    {
+                     source: 'Suoerguo',
+                     target: 'Guerhan',
+                     name: 'has_great_grandson',
+                     des:'has_great_grandson'
+                    },
+                    {
+                     source: 'FeiyingdongZhaerguqi',
+                     target: 'Guerhan',
+                     name: 'has_grandson',
+                     des:'has_grandson'
+                    },
+                    {
+                     source: 'Nahai',
+                     target: 'Guerhan',
+                     name: 'has_son',
+                     des:'has_son'
+                    },
+ {
+source: 'Zhucha',
+target: 'Gusu',
+name: 'has_sixth_great_grandson',
+des:'has_sixth_great_grandson'
+  },
+ {
+source: 'Suoerda',
+target: 'Gusu',
+name: 'has_fifth_great_grandson',
+des:'has_fifth_great_grandson'
+  },
+ {
+source: 'Mangkani',
+target: 'Gusu',
+name: 'has_fourth_great_grandson',
+des:'has_fourth_great_grandson'
+  },
+ {
+source: 'LuoluoMoergen',
+target: 'Gusu',
+name: 'has_third_great_grandson',
+des:'has_third_great_grandson'
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Gusu',
+name: 'has_second_great_grandson',
+des:'has_second_great_grandson'
+  },
+{
+source: 'Suoerguo',
+target: 'Gusu',
+name: 'has_great_grandson',
+des:'has_great_grandson'
+  },
+ {
+source: 'FeiyingdongZhaerguqi',
+target: 'Gusu',
+name: 'has_grandson',
+des:'has_grandson'
+  },
+{
+source: 'Nahai',
+target: 'Gusu',
+name: 'has_son',
+des:'has_son'
+  },
+{
+source: 'Zhucha',
+target: 'Laxitai',
+name: 'has_eighth_great_grandson',
+des:'has_eighth_great_grandson'
+  },
+{
+source: 'Suoerda',
+target: 'Laxitai',
+name: 'has_seventh_great_grandson',
+des:'has_seventh_great_grandson'
+  },
+{
+source: 'Mangkani',
+target: 'Laxitai',
+name: 'has_sixth_great_grandson',
+des:'has_sixth_great_grandson'
+},
+{
+source: 'LuoluoMoergen',
+target: 'Laxitai',
+name: 'has_fifth_great_grandson',
+des:'has_fifth_great_grandson'
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Laxitai',
+name: 'has_fourth_great_grandson',
+des:'has_fourth_great_grandson'
+  },
+{
+source: 'Suoerguo',
+target: 'Laxitai',
+name: 'has_third_great_grandson',
+des:'has_third_great_grandson'
+  },
+{
+source: 'FeiyingdongZhaerguqi',
+target: 'Laxitai',
+name: 'has_second_great_grandson',
+des:'has_second_great_grandson'
+  },
+{
+source: 'Nahai',
+target: 'Laxitai',
+name: 'has_great_grandson',
+des:'has_great_grandson'
+  },
+{
+source: 'Gusu',
+target: 'Laxitai',
+name: 'has_grandson',
+des:'has_grandson'
+            },
+{
+source: 'Suoerda',
+target: 'Yidonge',
+name: 'has_eighth_great_grandson',
+des: 'has_eighth_great_grandson'
+  },    
+{
+source: 'Mangkani',
+target: 'Yidonge',
+name: 'has_seventh_great_grandson',
+des: 'has_seventh_great_grandson'
+  },
+{
+source: 'LuoluoMoergen',
+target: 'Yidonge',
+name: 'has_sixth_great_grandson',
+des: 'has_sixth_great_grandson'
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Yidonge',
+name: 'has_fifth_great_grandson',
+des: 'has_fifth_great_grandson'
+  },
+ {
+source: 'Suoerguo',
+target: 'Yidonge',
+name: 'has_fourth_great_grandson',
+des: 'has_fourth_great_grandson'
+  },
+{
+source: 'FeiyingdongZhaerguqi',
+target: 'Yidonge',
+name: 'has_third_great_grandson',
+des: 'has_third_great_grandson'
+  },
+ 
+{
+source: 'Nahai',
+target: 'Yidonge',
+name: 'has_second_great_grandson',
+des: 'has_second_great_grandson'
+  },
+{
+source: 'Gusu',
+target: 'Yidonge',
+name: 'has_great_grandson',
+des: 'has_great_grandson'
+  },
+{
+source: 'Laxitai',
+target: 'Yidonge',
+name: 'has_son',
+des: 'has_son'
+  },
+{
+source: 'Suoerda',
+target: 'Zheerbu',
+name: 'has_eighth_great_grandson',
+des: 'has_eighth_great_grandson'
+  },
+{
+source: 'Mangkani',
+target: 'Zheerbu',
+name: 'has_seventh_great_grandson',
+des: 'has_seventh_great_grandson'
+  },
+ {
+source: 'LuoluoMoergen',
+target: 'Zheerbu',
+name: 'has_sixth_great_grandson',
+des: 'has_sixth_great_grandson'
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Zheerbu',
+name: 'has_fifth_great_grandson',
+des: 'has_fifth_great_grandson'
+  },
+{
+source: 'Suoerguo',
+target: 'Zheerbu',
+name: 'has_fourth_great_grandson',
+des: 'has_fourth_great_grandson'
+  },
+{
+source: 'FeiyingdongZhaerguqi',
+target: 'Zheerbu',
+name: 'has_third_great_grandson',
+des: 'has_third_great_grandson'
+  },
+ {
+source: 'Nahai',
+target: 'Zheerbu',
+name: 'has_second_great_grandson',
+des: 'has_second_great_grandson'
+  },
+{
+source: 'Mangkani',
+target: 'Zhelenge',
+name: 'has_eighth_great_grandson',
+des: 'has_eighth_great_grandson'
+  },
+  {
+source: 'LuoluoMoergen',
+target: 'Zhelenge',
+name: 'has_seventh_great_grandson',
+des: 'has_seventh_great_grandson'
+  },
+ {
+source: 'ChangkaniMoergen',
+target: 'Zhelenge',
+name: 'has_sixth_great_grandson',
+des: 'has_sixth_great_grandson'  
+},
+ {
+source: 'Suoerguo',
+target: 'Zhelenge',
+name: 'has_fifth_great_grandson',
+des: 'has_fifth_great_grandson'
+  },
+  {
+source: 'FeiyingdongZhaerguqi',
+target: 'Zhelenge',
+name: 'has_fourth_great_grandson',
+des: 'has_fourth_great_grandson'
+  },
+ {
+source: 'Nahai',
+target: 'Zhelenge',
+name: 'has_third_great_grandson',
+des: 'has_third_great_grandson'
+  },
+{
+source: 'Zheerbu',
+target: 'Zhelenge',
+name: 'has_son',
+  },
+{
+source: 'Zhucha',
+target: 'Suohai',
+name: 'has_fifth_great_grandson',
+  },{
+source: 'Suoerda',
+target: 'Suohai',
+name: 'has_fourth_great_grandson',
+  },
+{
+source: 'Mangkani',
+target: 'Suohai',
+name: 'has_third_great_grandson',
+  },
+{
+source: 'LuoluoMoergen',
+target: 'Suohai',
+name: 'has_second_great_grandson',
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Suohai',
+name: 'has_great_grandson',
+  },
+{
+source: 'Suoerguo',
+target: 'Suohai',
+name: 'has_grandson',
+  },
+ {
+source: 'FeiyingdongZhaerguqi',
+target: 'Suohai',
+name: 'has_son',
+  },
+{
+source: 'Zhucha',
+target: 'Duopoluo',
+name: 'has_sixth_great_grandson',
+  },
+{
+source: 'Suoerda',
+target: 'Duopoluo',
+name: 'has_fifth_great_grandson',
+  },
+{
+source: 'Mangkani',
+target: 'Duopoluo',
+name: 'has_fourth_great_grandson',
+  },
+{
+source: 'LuoluoMoergen',
+target: 'Duopoluo',
+name: 'has_third_great_grandson',
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Duopoluo',
+name: 'has_second_great_grandson',
+  },
+{
+source: 'Suoerguo',
+target: 'Duopoluo',
+name: 'has_great_grandson',
+  },
+{
+source: 'FeiyingdongZhaerguqi',
+target: 'Duopoluo',
+name: 'has_grandson',
+  },
+{
+source: 'Suohai',
+target: 'Duopoluo',
+name: 'has_son',
+  },
+{
+source: 'Zhucha',
+target: 'Daochan',
+name: 'has_seventh_great_grandson',
+  },
+{
+source: 'Suoerda',
+target: 'Daochan',
+name: 'has_sixth_great_grandson',
+  },
+{
+source: 'Mangkani',
+target: 'Daochan',
+name: 'has_fifth_great_grandson',
+  },
+ {
+source: 'LuoluoMoergen',
+target: 'Daochan',
+name: 'has_fourth_great_grandson',
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Daochan',
+name: 'has_third_great_grandson',
+  },
+{
+source: 'Suoerguo',
+target: 'Daochan',
+name: 'has_second_great_grandson',
+  },
+ {
+source: 'FeiyingdongZhaerguqi',
+target: 'Daochan',
+name: 'has_great_grandson',
+  },
+{
+source: 'Suohai',
+target: 'Daochan',
+name: 'has_grandson',
+  },
+{
+source: 'Duopoluo',
+target: 'Daochan',
+name: 'has_son',
+  },    
+{
+source: 'Zhucha',
+target: 'Duoertai',
+name: 'has_eighth_great_grandson',
+  },
+{
+source: 'Suoerda',
+target: 'Duoertai',
+name: 'has_seventh_great_grandson',
+  },
+ {
+source: 'Mangkani',
+target: 'Duoertai',
+name: 'has_sixth_great_grandson',
+  },
+{
+source: 'LuoluoMoergen',
+target: 'Duoertai',
+name: 'has_fifth_great_grandson',
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Duoertai',
+name: 'has_fourth_great_grandson',
+  },
+{
+source: 'Suoerguo',
+target: 'Duoertai',
+name: 'has_third_great_grandson',
+  },
+{
+source: 'FeiyingdongZhaerguqi',
+target: 'Duoertai',
+name: 'has_second_great_grandson',
+  },
+{
+source: 'Suohai',
+target: 'Duoertai',
+name: 'has_great_grandson',
+  },
+ {
+source: 'Duopoluo',
+target: 'Duoertai',
+name: 'has_grandson',
+  },
+{
+source: 'Daochan',
+target: 'Duoertai',
+name: 'has_son',
+  },    
+{
+source: 'Zhucha',
+target: 'Jilabu',
+name: 'has_seventh_great_grandson',
+  },
+ {
+source: 'Suoerda',
+target: 'Jilabu',
+name: 'has_sixth_great_grandson',
+  },
+{
+source: 'Mangkani',
+target: 'Jilabu',
+name: 'has_fifth_great_grandson',
+  },
+{
+source: 'LuoluoMoergen',
+target: 'Jilabu',
+name: 'has_fourth_great_grandson',
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Jilabu',
+name: 'has_third_great_grandson',
+  },
+{
+source: 'Suoerguo',
+target: 'Jilabu',
+name: 'has_second_great_grandson',
+  },
+{
+source: 'FeiyingdongZhaerguqi',
+target: 'Jilabu',
+name: 'has_great_grandson',
+  },
+{
+source: 'Suohai',
+target: 'Jilabu',
+name: 'has_grandson',
+  },
+
+{
+source: 'Zhucha',
+target: 'Wanzhu',
+name: 'has_eighth_great_grandson',
+  },
+{
+source: 'Suoerda',
+target: 'Wanzhu',
+name: 'has_seventh_great_grandson',
+  },
+{
+source: 'Mangkani',
+target: 'Wanzhu',
+name: 'has_sixth_great_grandson',
+  },
+{
+source: 'LuoluoMoergen',
+target: 'Wanzhu',
+name: 'has_fifth_great_grandson',
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Wanzhu',
+name: 'has_fourth_great_grandson',
+  },
+{
+source: 'Suoerguo',
+target: 'Wanzhu',
+name: 'has_third_great_grandson',
+  },
+{
+source: 'FeiyingdongZhaerguqi',
+target: 'Wanzhu',
+name: 'has_second_great_grandson',
+  },
+{
+source: 'Suohai',
+target: 'Wanzhu',
+name: 'has_great_grandson',
+  },
+{
+source: 'Zhucha',
+target: 'Laba',
+name: 'has_eighth_great_grandson',
+  },
+{
+source: 'Suoerda',
+target: 'Laba',
+name: 'has_seventh_great_grandson',
+  },
+{
+source: 'Mangkani',
+target: 'Laba',
+name: 'has_sixth_great_grandson',
+  },
+{
+source: 'LuoluoMoergen',
+target: 'Laba',
+name: 'has_fifth_great_grandson',
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Laba',
+name: 'has_fourth_great_grandson',
+  },
+{
+source: 'Suoerguo',
+target: 'Laba',
+name: 'has_third_great_grandson',
+  },
+{
+source: 'FeiyingdongZhaerguqi',
+target: 'Laba',
+name: 'has_second_great_grandson',
+  },
+{
+source: 'Suohai',
+target: 'Laba',
+name: 'has_great_grandson',
+  },
+{
+source: 'Suoerda',
+target: 'Zhuntibao',
+name: 'has_eighth_great_grandson',
+  },
+{
+source: 'Mangkani',
+target: 'Zhuntibao',
+name: 'has_seventh_great_grandson',
+  },
+{
+source: 'LuoluoMoergen',
+target: 'Zhuntibao',
+name: 'has_sixth_great_grandson',
+des: 'has_sixth_great_grandson'
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Zhuntibao',
+name: 'has_fifth_great_grandson',
+des: 'has_fifth_great_grandson'
+  },
+{
+source: 'Suoerguo',
+target: 'Zhuntibao',
+name: 'has_fourth_great_grandson',
+des: 'has_fourth_great_grandson'
+  },
+{
+source: 'FeiyingdongZhaerguqi',
+target: 'Zhuntibao',
+name: 'has_third_great_grandson',
+des: 'has_third_great_grandson'
+  },
+{
+source: 'Suohai',
+target: 'Zhuntibao',
+name: 'has_second_great_grandson',
+des: 'has_second_great_grandson'
+  },
+{
+source: 'Suoerda',
+target: 'Dening',
+name: 'has_eighth_great_grandson',
+des: 'has_eighth_great_grandson'
+  },
+{
+source: 'Mangkani',
+target: 'Dening',
+name: 'has_seventh_great_grandson',
+des: 'has_seventh_great_grandson'
+  },
+{
+source: 'LuoluoMoergen',
+target: 'Dening',
+name: 'has_sixth_great_grandson',
+des: 'has_sixth_great_grandson'
+  },
+{
+source: 'ChangkaniMoergen',
+target: 'Dening',
+name: 'has_fifth_great_grandson',
+des: 'has_fifth_great_grandson'
+  },
+{
+source: 'Suoerguo',
+target: 'Dening',
+name: 'has_fourth_great_grandson',
+des: 'has_fourth_great_grandson'
+  },
+  {
+source: 'FeiyingdongZhaerguqi',
+target: 'Dening',
+name: 'has_third_great_grandson',
+des: 'has_third_great_grandson'
+  },
+{
+source: 'Suohai',
+target: 'Dening',
+name: 'has_second_great_grandson',
+des: 'has_second_great_grandson'
+  }
+],
+            categories: {
+                name:'人物'
+            },
+        }]
+    };
+    myChart.setOption(option);
+</script>
+</body>
+</html>

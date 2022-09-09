@@ -1,0 +1,8254 @@
+﻿{
+    "nodes": [
+     {
+       "identity": ‘珠察’,
+       "名": "珠察",
+       "人物ID": "3",
+       "性别": "男"
+      },
+     {
+       "identity": ‘纳海’,
+       "名": "纳海",
+       "人物ID": "19",
+       "性别": "男"
+     },
+     {
+       "identity": 37252,
+       "名": "素尔达",
+       "人物ID": "4",
+       "性别": "男"
+     },
+{
+"identity": 37255,
+"名": "莽喀尼",
+"人物ID": "5",
+"性别": "男"
+},
+{
+"identity": ‘罗罗墨尔根’,
+"名": "罗罗墨尔根",
+"人物ID": "6",
+"性别": "男"
+    },
+{
+"identity": 37257,
+"名": "常喀尼墨尔根",
+"人物ID": "7",
+"性别": "男"
+    },
+{
+"identity": ‘索尔果’,
+"名": "索尔果",
+"人物ID": "8",
+"性别": "男"
+    },
+{
+"identity": ‘费英东扎尔固齐’,
+"谥号": "直义公、信勇公",
+"人物ID": "9",
+"名": "费英东扎尔固齐",
+"性别": "男"
+    },
+{
+"identity": 16748,
+"名": "顾尔汉",
+"人物ID": "20",
+"性别": "男"
+    },
+{
+"identity": 17902,
+"名": "顾素",
+"人物ID": "21",
+"性别": "男"
+    },
+{
+"identity": 17903,
+"名": "拉锡泰",
+"人物ID": "22",
+"性别": "男"
+    },
+
+    "links": [
+{
+source: ‘珠察’,
+target: ‘纳海’,
+type: 六世孙
+    },
+ {
+source: 37252,
+target: ‘纳海’,
+type: 五世孙
+  },
+ {
+identity: 93973,
+source: ‘莽喀尼’,
+target: ‘纳海’,
+type: 四世孙
+  },
+{
+identity: 93733,
+source: ‘罗罗墨尔根’,
+target: ‘纳海’,
+type: 元孙
+  },
+{
+identity: 93510,
+source: ‘常喀尼墨尔根’,
+target: ‘纳海’,
+type: 曾孙
+  },
+ {
+identity: 93236,
+source: ‘索尔果’,
+target: ‘纳海’,
+type: 孙子
+  },
+{
+identity: 57732,
+source: ‘费英东扎尔固齐’,
+target: ‘纳海’,
+type: 儿子
+  },
+ {
+identity: 94841,
+source: ‘珠察’,
+target: 16748,
+type: 七世孙
+  },
+ {
+identity: 94653,
+source: 37252,
+target: 16748,
+type: 六世孙
+  },
+  {
+identity: 94403,
+source: ‘莽喀尼’,
+target: 16748,
+type: 五世孙
+  },
+ {
+identity: 94027,
+source: ‘罗罗墨尔根’,
+target: 16748,
+type: 四世孙
+  },
+{
+identity: 93769,
+source: ‘常喀尼墨尔根’,
+target: 16748,
+type: 元孙
+  },
+ {
+identity: 93518,
+source: ‘索尔果’,
+target: 16748,
+type: 曾孙
+  },
+ {
+identity: 93211,
+source: ‘费英东扎尔固齐’,
+target: 16748,
+type: 孙子
+  },
+ {
+identity: 57739,
+source: ‘纳海’,
+target: 16748,
+type: 儿子
+  },
+ {
+identity: 94862,
+source: ‘珠察’,
+target: 17902,
+type: 七世孙
+  },
+ {
+identity: 94662,
+source: 37252,
+target: 17902,
+type: 六世孙
+  },
+ {
+identity: 94402,
+source: ‘莽喀尼’,
+target: 17902,
+type: 五世孙
+  },
+ {
+identity: 94037,
+source: ‘罗罗墨尔根’,
+target: 17902,
+type: 四世孙
+  },
+{
+identity: 93756,
+source: ‘常喀尼墨尔根’,
+target: 17902,
+type: 元孙
+  },
+{
+identity: 93515,
+source: ‘索尔果’,
+target: 17902,
+type: 曾孙
+  },
+ {
+identity: 93212,
+source: ‘费英东扎尔固齐’,
+target: 17902,
+type: 孙子
+  },
+{
+identity: 57740,
+source: ‘纳海’,
+target: 17902,
+type: 儿子
+  },
+{
+identity: 95215,
+source: ‘珠察’,
+target: 17903,
+type: 九世孙
+  },
+{
+identity: 95112,
+source: 37252,
+target: 17903,
+type: 八世孙
+  },
+{
+identity: 94996,
+source: ‘莽喀尼’,
+target: 17903,
+type: 七世孙
+},
+{
+identity: 94765,
+source: ‘罗罗墨尔根’,
+target: 17903,
+type: 六世孙
+  },
+{
+identity: 94548,
+source: ‘常喀尼墨尔根’,
+target: 17903,
+type: 五世孙
+  },
+{
+identity: 94131,
+source: ‘索尔果’,
+target: 17903,
+type: 四世孙
+  },
+{
+identity: 93861,
+source: ‘费英东扎尔固齐’,
+target: 17903,
+type: 元孙
+  },
+{
+identity: 93474,
+source: ‘纳海’,
+target: 17903,
+type: 曾孙
+  },
+{
+identity: 58503,
+source: 17902,
+target: 17903,
+type: 孙子
+  },
+
+
+
+
+{
+name: ‘伊东阿’,
+des: ‘男’
+    },
+{
+name: ‘哲尔布’,
+des: ‘男’
+    },
+{
+name: ‘哲楞额’,
+des: ‘男’
+　　},
+{
+name: ‘索海’,
+des: ‘男’
+    },
+{
+name: ‘多颇络’,
+des: ‘男’
+    },
+{
+name: ‘道禅’,
+des: ‘男’
+    },
+{
+name: ‘多尔泰’,
+des: ‘男’
+    },
+{
+name: ‘济拉布’,
+des: ‘男’
+    },
+{
+name: ‘万柱’,
+des: ‘男’
+    },
+{
+name: ‘拉巴’,
+des: ‘男’
+    },
+{
+name: ‘准提保’,
+des: ‘男’
+    },
+{
+name: ‘德宁’,
+des: ‘男’
+    },
+
+
+
+
+
+ {
+source: ‘素尔达’,
+target: ‘伊东阿’,
+name: ‘九世孙’,
+des: ‘九世孙’
+  },
+    
+{
+source: ‘莽喀尼’,
+target: ‘伊东阿’,
+name: ‘八世孙’,
+des: ‘八世孙’
+  },
+{
+source: ‘罗罗墨尔根’,
+target: 伊东阿,
+name: ‘七世孙’,
+des: ‘七世孙’
+  },
+{
+source: ‘常喀尼墨尔根’,
+target: ‘伊东阿’,
+name: ‘六世孙’,
+des: ‘六世孙’
+  },
+ {
+source: ‘索尔果’,
+target: ‘伊东阿’,
+name: ‘五世孙’,
+des: ‘五世孙’
+  },
+{
+source: ‘费英东扎尔固齐’,
+target: ‘伊东阿’,
+name: ‘四世孙’,
+des: ‘四世孙’
+  },
+ 
+{
+source: ‘纳海’,
+target: ‘伊东阿’,
+name: ‘元孙’,
+des: ‘元孙’
+  },
+{
+source: ‘顾素’,
+target: ‘伊东阿’,
+name: ‘曾孙’,
+des: ‘曾孙’
+  },
+{
+source: ‘拉锡泰’,
+target: ‘伊东阿’,
+name: ‘儿子’,
+des: ‘儿子’
+  },
+{
+source: ‘素尔达’,
+target: ‘哲尔布’,
+name: ‘九世孙’,
+des: ‘九世孙’
+  },
+{
+source: ‘莽喀尼’,
+target: ‘哲尔布’,
+name: ‘八世孙’,
+des: ‘八世孙’
+  },
+ {
+source: ‘罗罗墨尔根’,
+target: ‘哲尔布’,
+name: ‘七世孙’,
+des: ‘七世孙’
+  },
+{
+source: ‘常喀尼墨尔根’,
+target: ‘哲尔布’,
+name: ‘六世孙’,
+des: ‘六世孙’
+  },
+{
+source: ‘索尔果’,
+target: ‘哲尔布’,
+name: ‘五世孙’,
+des: ‘五世孙’
+  },
+{
+source: ‘费英东扎尔固齐’,
+target: ‘哲尔布’,
+name: ‘四世孙’,
+des: ‘四世孙’
+  },
+ {
+source: ‘纳海’,
+target: ‘哲尔布’,
+name: ‘元孙’,
+des: ‘元孙’
+  },
+{
+source: ‘莽喀尼’,
+target: ‘哲楞额’,
+name: ‘九世孙’,
+des: ‘九世孙’
+  },
+  {
+source: ‘罗罗墨尔根’,
+target: ‘哲楞额’,
+name: ‘八世孙’,
+des: ‘八世孙’
+  },
+ {
+source: ‘常喀尼墨尔根’,
+target: ‘哲楞额’,
+name: ‘七世孙’,
+des: ‘七世孙’  
+},
+ {
+source: ‘索尔果’,
+target: ‘哲楞额’,
+name: ‘六世孙’,
+des: ‘六世孙’
+  },
+  {
+source: ‘费英东扎尔固齐’,
+target: ‘哲楞额’,
+name: ‘五世孙’,
+des: ‘五世孙’
+  },
+ {
+source: ‘纳海’,
+target: ‘哲楞额’,
+name: ‘四世孙’,
+des: ‘四世孙’
+  },
+{
+source: ‘哲尔布’,
+target: ‘哲楞额’,
+name: ‘儿子’,
+  },
+{
+source: ‘珠察’,
+target: ‘索海’,
+name: ‘六世孙’,
+  },
+{
+source: ‘素尔达’,
+target: ‘索海’,
+name: ‘五世孙’,
+  },
+{
+source: ‘莽喀尼’,
+target: ‘索海’,
+name: ‘四世孙’,
+  },
+{
+source: ‘罗罗墨尔根’,
+target: ‘索海’,
+name: ‘元孙’,
+  },
+{
+source: ‘常喀尼墨尔根’,
+target: ‘索海’,
+name: ‘曾孙’,
+  },
+{
+source: ‘索尔果’,
+target: ‘索海’,
+name: ‘孙子’,
+  },
+ {
+source: ‘费英东扎尔固齐’,
+target: ‘索海’,
+name: ‘儿子’,
+  },
+
+{
+source: ‘珠察’,
+target: ‘多颇络’,
+name: ‘七世孙’,
+  },
+{
+source: ‘素尔达’,
+target: ‘多颇络’,
+name: ‘六世孙’,
+  },
+{
+source: ‘莽喀尼’,
+target: ‘多颇络’,
+name: ‘五世孙’,
+  },
+{
+source: ‘罗罗墨尔根’,
+target: ‘多颇络’,
+name: ‘四世孙’,
+  },
+{
+source: ‘常喀尼墨尔根’,
+target: ‘多颇络’,
+name: ‘元孙’,
+  },
+{
+source: ‘索尔果’,
+target: ‘多颇络’,
+name: ‘曾孙’,
+  },
+{
+source: ‘费英东扎尔固齐’,
+target: ‘多颇络’,
+name: ‘孙子’,
+  },
+{
+source: ‘索海’,
+target: ‘多颇络’,
+name: ‘儿子’,
+  },
+{
+source: ‘珠察’,
+target: ‘道禅’,
+name: ‘八世孙’,
+  },
+{
+source: ‘素尔达’,
+target: ‘道禅’,
+name: ‘七世孙’,
+  },
+{
+source: ‘莽喀尼’,
+target: ‘道禅’,
+name: ‘六世孙’,
+  },
+ {
+source: ‘罗罗墨尔根’,
+target: ‘道禅’,
+name: ‘五世孙’,
+  },
+{
+source: ‘常喀尼墨尔根’,
+target: ‘道禅’,
+name: ‘四世孙’,
+  },
+{
+source: ‘索尔果’,
+target: ‘道禅’,
+name: ‘元孙’,
+  },
+ {
+source: ‘费英东扎尔固齐’,
+target: ‘道禅’,
+name: ‘曾孙’,
+  },
+{
+source: ‘索海’,
+target: ‘道禅’,
+name: ‘孙子’,
+  },
+{
+source: ‘多颇络’,
+target: ‘道禅’,
+name: ‘儿子’,
+  },
+    
+{
+source: ‘珠察’,
+target: ‘多尔泰’,
+name: ‘九世孙’,
+  },
+{
+source: ‘素尔达’,
+target: ‘多尔泰’,
+name: ‘八世孙’,
+  },
+ {
+source: ‘莽喀尼’,
+target: ‘多尔泰’,
+name: ‘七世孙’,
+  },
+{
+source: ‘罗罗墨尔根’,
+target: ‘多尔泰’,
+name: ‘六世孙’,
+  },
+{
+source: ‘常喀尼墨尔根’,
+target: ‘多尔泰’,
+name: ‘五世孙’,
+  },
+{
+source: ‘索尔果’,
+target: ‘多尔泰’,
+name: ‘四世孙’,
+  },
+{
+source: ‘费英东扎尔固齐’,
+target: ‘多尔泰’,
+name: ‘元孙’,
+  },
+{
+source: ‘索海’,
+target: ‘多尔泰’,
+name: ‘曾孙’,
+  },
+ {
+source: ‘多颇络’,
+target: ‘多尔泰’,
+name: ‘孙子’,
+  },
+{
+source: ‘道禅’,
+target: ‘多尔泰’,
+name: ‘儿子’,
+  },
+    
+{
+source: ‘珠察’,
+target: ‘济拉布’,
+name: ‘八世孙’,
+  },
+ {
+source: ‘素尔达’,
+target: ‘济拉布’,
+name: ‘七世孙’,
+  },
+{
+source: ‘莽喀尼’,
+target: ‘济拉布’,
+name: ‘六世孙’,
+  },
+{
+source: ‘罗罗墨尔根’,
+target: ‘济拉布’,
+name: ‘五世孙’,
+  },
+{
+source: ‘常喀尼墨尔根’,
+target: ‘济拉布’,
+name: ‘四世孙’,
+  },
+{
+source: ‘索尔果’,
+target: ‘济拉布’,
+name: ‘元孙’,
+  },
+{
+source: ‘费英东扎尔固齐’,
+target: ‘济拉布’,
+name: ‘曾孙’,
+  },
+{
+source: ‘索海’,
+target: ‘济拉布’,
+name: ‘孙子’,
+  },
+
+{
+source: ‘珠察’,
+target: ‘万柱’,
+name: ‘九世孙’,
+  },
+{
+source: ‘素尔达’,
+target: ‘万柱’,
+name: ‘八世孙’,
+  },
+{
+source: ‘莽喀尼’,
+target: ‘万柱’,
+name: ‘七世孙’,
+  },
+{
+source: ‘罗罗墨尔根’,
+target: ‘万柱’,
+name: ‘六世孙’,
+  },
+{
+source: ‘常喀尼墨尔根’,
+target: ‘万柱’,
+name: ‘五世孙’,
+  },
+{
+source: ‘索尔果’,
+target: ‘万柱’,
+name: ‘四世孙’,
+  },
+{
+source: ‘费英东扎尔固齐’,
+target: ‘万柱’,
+name: ‘元孙’,
+  },
+{
+source: ‘索海’,
+target: ‘万柱’,
+name: ‘曾孙’,
+  },
+{
+source: ‘珠察’,
+target: ‘拉巴’,
+name: ‘九世孙’,
+  },
+{
+source: ‘素尔达’,
+target: ‘拉巴’,
+name: ‘八世孙’,
+  },
+{
+source: ‘莽喀尼’,
+target: ‘拉巴’,
+name: ‘七世孙’,
+  },
+{
+source: ‘罗罗墨尔根’,
+target: ‘拉巴’,
+name: ‘六世孙’,
+  },
+{
+source: ‘常喀尼墨尔根’,
+target: ‘拉巴’,
+name: ‘五世孙’,
+  },
+{
+source: ‘索尔果’,
+target: ‘拉巴’,
+name: ‘四世孙’,
+  },
+{
+source: ‘费英东扎尔固齐’,
+target: ‘拉巴’,
+name: ‘元孙’,
+  },
+{
+source: ‘索海’,
+target: ‘拉巴’,
+name: ‘曾孙’,
+  },
+{
+source: ‘素尔达’,
+target: ‘准提保’,
+name: ‘九世孙’,
+  },
+{
+source: ‘莽喀尼’,
+target: ‘准提保’,
+name: ‘八世孙’,
+  },
+{
+source: ‘罗罗墨尔根’,
+target: ‘准提保’,
+name: ‘七世孙’,
+des: ‘七世孙’
+  },
+{
+source: ‘常喀尼墨尔根’,
+target: ‘准提保’,
+name: ‘六世孙’,
+des: ‘六世孙’
+  },
+{
+source: ‘索尔果’,
+target: ‘准提保’,
+name: ‘五世孙’,
+des: ‘五世孙’
+  },
+{
+source: ‘费英东扎尔固齐’,
+target: ‘准提保’,
+name: ‘四世孙’,
+des: ‘四世孙’
+  },
+{
+source: ‘索海’,
+target: ‘准提保’,
+name: ‘元孙’,
+des: ‘元孙’
+  },
+{
+source: ‘素尔达’,
+target: ‘德宁’,
+name: ‘九世孙’,
+des: ‘九世孙’
+  },
+{
+source: ‘莽喀尼’,
+target: ‘德宁’,
+name: ‘八世孙’,
+des: ‘八世孙’
+  },
+{
+source: ‘罗罗墨尔根’,
+target: ‘德宁’,
+name: ‘七世孙’,
+des: ‘七世孙’
+  },
+{
+source: ‘常喀尼墨尔根’,
+target: ‘德宁’,
+name: ‘六世孙’,
+des: ‘六世孙’
+  },
+{
+source: ‘索尔果’,
+target: ‘德宁’,
+name: ‘五世孙’,
+des: ‘五世孙’
+  },
+  {
+source: ‘费英东扎尔固齐’,
+target: ‘德宁’,
+name: ‘四世孙’,
+des: ‘四世孙’
+  },
+{
+source: ‘索海’,
+target: ‘德宁’,
+name: ‘元孙’,
+des: ‘元孙’
+  },
+{
+"identity": 17916,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "德恩",
+"人物ID": "35",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95258,
+"start": ‘莽喀尼’,
+"end": ‘德恩’,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 95176,
+"start": ‘罗罗墨尔根’,
+"end": ‘德恩’,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 95031,
+"start": ‘常喀尼墨尔根’,
+"end": ‘德恩’,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94822,
+"start": ‘索尔果’,
+"end": ‘德恩’,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94367,
+"start": ‘费英东扎尔固齐’,
+"end": ‘德恩’,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 66860,
+"start": ‘索海’,
+"end": ‘德恩’,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+     "p2": {
+"identity": 17917,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"谥号": "昭勲公",
+"名": "图赖",
+"人物ID": "36",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94628,
+"start": ‘珠察’,
+"end": ‘图赖’,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94377,
+"start": ‘素尔达’,
+"end": ‘图赖’,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93979,
+"start": ‘莽喀尼’,
+"end": ‘图赖’,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93729,
+"start": ‘罗罗墨尔根’,
+"end": ‘图赖’,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93507,
+"start": ‘常喀尼墨尔根’,
+"end": ‘图赖’,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93237,
+"start": ‘索尔果’,
+"end": ‘图赖’,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 57734,
+"start": ‘费英东扎尔固齐’,
+"end": ‘图赖’,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 17918,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "辉色",
+"人物ID": "37",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94883,
+"start": ‘珠察’,
+"end": ‘辉色’,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94677,
+"start": ‘素尔达’,
+"end": ‘辉色’,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94433,
+"start": ‘莽喀尼’,
+"end": ‘辉色’,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93993,
+"start": ‘罗罗墨尔根’,
+"end": ‘辉色’,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93777,
+"start": ‘常喀尼墨尔根’,
+"end": ‘辉色’,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93516,
+"start": ‘索尔果’,
+"end": ‘辉色’,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93217,
+"start": ‘费英东扎尔固齐’,
+"end": ‘辉色’,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 57746,
+"start": ‘图赖’,
+"end": ‘辉色’,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 57715,
+"start": ‘珠察’,
+"end": ‘素尔达’,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+"p2": {
+"identity": 37253,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "王沙鲁",
+"人物ID": "4517",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93218,
+"start": ‘珠察’,
+"end": ‘王沙鲁’,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": ‘王沙鲁’,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "王沙鲁",
+"人物ID": "4517",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57716,
+"start": ‘素尔达’,
+"end": ‘王沙鲁’,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37254,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "王扎拉达",
+"人物ID": "4518",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93219,
+"start": ‘珠察’,
+"end": ‘王扎拉达’,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 57717,
+"start": ‘素尔达’,
+"end": ‘王扎拉达’,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "r": {
+"identity": 57718,
+"start": ‘素尔达’,
+"end": ‘莽喀尼’,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93220,
+"start": ‘珠察’,
+"end": ‘莽喀尼’,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 57719,
+"start": ‘莽喀尼’,
+"end": ‘罗罗墨尔根’,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "r": {
+"identity": 93221,
+"start": ‘素尔达’,
+"end": ‘罗罗墨尔根’,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+
+    "r": {
+"identity": 93476,
+"start": ‘珠察’,
+"end": ‘罗罗墨尔根’,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 57720,
+"start": ‘罗罗墨尔根’,
+"end": ‘常喀尼墨尔根’,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93222,
+"start": ‘莽喀尼’,
+"end": ‘常喀尼墨尔根’,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+
+    "r": {
+"identity": 93477,
+"start": ‘素尔达’,
+"end": ‘常喀尼墨尔根’,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "r": {
+"identity": 93715,
+"start": ‘珠察’,
+"end": ‘常喀尼墨尔根’,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 57722,
+"start": ‘常喀尼墨尔根’,
+"end": ‘索尔果’,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93224,
+"start": ‘罗罗墨尔根’,
+"end": ‘索尔果’,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93479,
+"start": ‘莽喀尼’,
+"end": ‘索尔果’,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93717,
+"start": ‘素尔达’,
+"end": ‘索尔果’,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "r": {
+"identity": 93958,
+"start": ‘珠察’,
+"end": ‘索尔果’,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 57723,
+"start": ‘索尔果’,
+"end": ‘费英东扎尔固齐’,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93225,
+"start": ‘常喀尼墨尔根’,
+"end": ‘费英东扎尔固齐’,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93486,
+"start": ‘罗罗墨尔根’,
+"end": ‘费英东扎尔固齐’,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93724,
+"start": ‘莽喀尼’,
+"end": ‘费英东扎尔固齐’,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93967,
+"start": ‘素尔达’,
+"end": ‘费英东扎尔固齐’,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "r": {
+"identity": 94375,
+"start": ‘珠察’,
+"end": ‘费英东扎尔固齐’,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37456,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "阿都巴顔",
+"人物ID": "209",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 67592,
+"start": ‘阿都巴顔’,
+"end": ‘费英东扎尔固齐’,
+"type": "弟弟",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37479,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "三谭",
+"人物ID": "4553",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 68034,
+"start": 37479,
+"end": ‘费英东扎尔固齐’,
+"type": "同族",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37553,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "克尔素",
+"人物ID": "282",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 68035,
+"start": 37553,
+"end": ‘费英东扎尔固齐’,
+"type": "同族",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 38421,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "准达",
+"人物ID": "1157",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 68033,
+"start": 38421,
+"end": ‘费英东扎尔固齐’,
+"type": "同族",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37595,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "达古善",
+"人物ID": "324",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 67996,
+"start": 37595,
+"end": ‘费英东扎尔固齐’,
+"type": "同族",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37612,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "尼堪",
+"人物ID": "341",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 68021,
+"start": 37612,
+"end": ‘费英东扎尔固齐’,
+"type": "同族",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 38346,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "科尔谟",
+"人物ID": "1082",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 68013,
+"start": 38346,
+"end": ‘费英东扎尔固齐’,
+"type": "同族",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 38701,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"谥号": "忠毅",
+"人物ID": "1437",
+"名": "硕翁科洛巴图鲁劳萨",
+"号": "硕翁科洛巴图鲁号",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 67976,
+"start": 38701,
+"end": ‘费英东扎尔固齐’,
+"type": "同族",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37260,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "倭赫",
+"人物ID": "10",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94851,
+"start": ‘珠察’,
+"end": 37260,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37260,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "倭赫",
+"人物ID": "10",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94666,
+"start": ‘素尔达’,
+"end": 37260,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37260,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "倭赫",
+"人物ID": "10",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94447,
+"start": ‘莽喀尼’,
+"end": 37260,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37260,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "倭赫",
+"人物ID": "10",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94039,
+"start": ‘罗罗墨尔根’,
+"end": 37260,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37260,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "倭赫",
+"人物ID": "10",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93786,
+"start": ‘常喀尼墨尔根’,
+"end": 37260,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37260,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "倭赫",
+"人物ID": "10",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93512,
+"start": ‘索尔果’,
+"end": 37260,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37260,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "倭赫",
+"人物ID": "10",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 58500,
+"start": ‘费英东扎尔固齐’,
+"end": 37260,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37261,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "富尔丹",
+"人物ID": "11",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95036,
+"start": ‘珠察’,
+"end": 37261,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37261,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "富尔丹",
+"人物ID": "11",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94920,
+"start": ‘素尔达’,
+"end": 37261,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37261,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "富尔丹",
+"人物ID": "11",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94687,
+"start": ‘莽喀尼’,
+"end": 37261,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37261,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "富尔丹",
+"人物ID": "11",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94454,
+"start": ‘罗罗墨尔根’,
+"end": 37261,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37261,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "富尔丹",
+"人物ID": "11",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94306,
+"start": ‘常喀尼墨尔根’,
+"end": 37261,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37261,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "富尔丹",
+"人物ID": "11",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94239,
+"start": ‘索尔果’,
+"end": 37261,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37261,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "富尔丹",
+"人物ID": "11",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94178,
+"start": ‘费英东扎尔固齐’,
+"end": 37261,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37260,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "倭赫",
+"人物ID": "10",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37261,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "富尔丹",
+"人物ID": "11",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57736,
+"start": 37260,
+"end": 37261,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37262,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "兆德",
+"人物ID": "12",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95201,
+"start": ‘珠察’,
+"end": 37262,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37262,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "兆德",
+"人物ID": "12",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95101,
+"start": ‘素尔达’,
+"end": 37262,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37262,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "兆德",
+"人物ID": "12",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94968,
+"start": ‘莽喀尼’,
+"end": 37262,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37262,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "兆德",
+"人物ID": "12",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94753,
+"start": ‘罗罗墨尔根’,
+"end": 37262,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37262,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "兆德",
+"人物ID": "12",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94515,
+"start": ‘常喀尼墨尔根’,
+"end": 37262,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37262,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "兆德",
+"人物ID": "12",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94319,
+"start": ‘索尔果’,
+"end": 37262,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37262,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "兆德",
+"人物ID": "12",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94247,
+"start": ‘费英东扎尔固齐’,
+"end": 37262,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37260,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "倭赫",
+"人物ID": "10",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37262,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "兆德",
+"人物ID": "12",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93239,
+"start": 37260,
+"end": 37262,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37261,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "富尔丹",
+"人物ID": "11",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37262,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "兆德",
+"人物ID": "12",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57737,
+"start": 37261,
+"end": 37262,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37263,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈达哈",
+"人物ID": "13",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95213,
+"start": ‘珠察’,
+"end": 37263,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37263,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈达哈",
+"人物ID": "13",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95139,
+"start": ‘素尔达’,
+"end": 37263,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37263,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈达哈",
+"人物ID": "13",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94953,
+"start": ‘莽喀尼’,
+"end": 37263,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37263,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈达哈",
+"人物ID": "13",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94751,
+"start": ‘罗罗墨尔根’,
+"end": 37263,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37263,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈达哈",
+"人物ID": "13",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94519,
+"start": ‘常喀尼墨尔根’,
+"end": 37263,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37263,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈达哈",
+"人物ID": "13",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94318,
+"start": ‘索尔果’,
+"end": 37263,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37263,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈达哈",
+"人物ID": "13",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94246,
+"start": ‘费英东扎尔固齐’,
+"end": 37263,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37260,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "倭赫",
+"人物ID": "10",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37263,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈达哈",
+"人物ID": "13",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93238,
+"start": 37260,
+"end": 37263,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37261,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "富尔丹",
+"人物ID": "11",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37263,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈达哈",
+"人物ID": "13",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57738,
+"start": 37261,
+"end": 37263,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37264,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "托辉",
+"人物ID": "14",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94614,
+"start": ‘珠察’,
+"end": 37264,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37264,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "托辉",
+"人物ID": "14",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94376,
+"start": ‘素尔达’,
+"end": 37264,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37264,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "托辉",
+"人物ID": "14",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93984,
+"start": ‘莽喀尼’,
+"end": 37264,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37264,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "托辉",
+"人物ID": "14",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93740,
+"start": ‘罗罗墨尔根’,
+"end": 37264,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37264,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "托辉",
+"人物ID": "14",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93499,
+"start": ‘常喀尼墨尔根’,
+"end": 37264,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37264,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "托辉",
+"人物ID": "14",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93233,
+"start": ‘索尔果’,
+"end": 37264,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37264,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "托辉",
+"人物ID": "14",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57731,
+"start": ‘费英东扎尔固齐’,
+"end": 37264,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37265,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "乌尔瑚",
+"人物ID": "15",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94863,
+"start": ‘珠察’,
+"end": 37265,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37265,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "乌尔瑚",
+"人物ID": "15",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94669,
+"start": ‘素尔达’,
+"end": 37265,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37265,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "乌尔瑚",
+"人物ID": "15",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94420,
+"start": ‘莽喀尼’,
+"end": 37265,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37265,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "乌尔瑚",
+"人物ID": "15",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94019,
+"start": ‘罗罗墨尔根’,
+"end": 37265,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37265,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "乌尔瑚",
+"人物ID": "15",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93770,
+"start": ‘常喀尼墨尔根’,
+"end": 37265,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37265,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "乌尔瑚",
+"人物ID": "15",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93513,
+"start": ‘索尔果’,
+"end": 37265,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37265,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "乌尔瑚",
+"人物ID": "15",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 58501,
+"start": ‘费英东扎尔固齐’,
+"end": 37265,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37266,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "扎秦",
+"人物ID": "4519",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94859,
+"start": ‘珠察’,
+"end": 37266,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37266,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "扎秦",
+"人物ID": "4519",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94642,
+"start": ‘素尔达’,
+"end": 37266,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37266,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "扎秦",
+"人物ID": "4519",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94429,
+"start": ‘莽喀尼’,
+"end": 37266,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37266,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "扎秦",
+"人物ID": "4519",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93992,
+"start": ‘罗罗墨尔根’,
+"end": 37266,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37266,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "扎秦",
+"人物ID": "4519",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93798,
+"start": ‘常喀尼墨尔根’,
+"end": 37266,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37266,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "扎秦",
+"人物ID": "4519",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93514,
+"start": ‘索尔果’,
+"end": 37266,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37266,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "扎秦",
+"人物ID": "4519",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 58502,
+"start": ‘费英东扎尔固齐’,
+"end": 37266,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37267,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福岱",
+"人物ID": "4520",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95096,
+"start": ‘珠察’,
+"end": 37267,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37267,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福岱",
+"人物ID": "4520",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94929,
+"start": ‘素尔达’,
+"end": 37267,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37267,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福岱",
+"人物ID": "4520",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94684,
+"start": ‘莽喀尼’,
+"end": 37267,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37267,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福岱",
+"人物ID": "4520",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94486,
+"start": ‘罗罗墨尔根’,
+"end": 37267,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37267,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福岱",
+"人物ID": "4520",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94053,
+"start": ‘常喀尼墨尔根’,
+"end": 37267,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37267,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福岱",
+"人物ID": "4520",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93852,
+"start": ‘索尔果’,
+"end": 37267,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37267,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福岱",
+"人物ID": "4520",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59210,
+"start": ‘费英东扎尔固齐’,
+"end": 37267,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37268,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅尔赛",
+"人物ID": "4521",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95057,
+"start": ‘珠察’,
+"end": 37268,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37268,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅尔赛",
+"人物ID": "4521",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94951,
+"start": ‘素尔达’,
+"end": 37268,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37268,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅尔赛",
+"人物ID": "4521",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94735,
+"start": ‘莽喀尼’,
+"end": 37268,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37268,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅尔赛",
+"人物ID": "4521",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94504,
+"start": ‘罗罗墨尔根’,
+"end": 37268,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37268,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅尔赛",
+"人物ID": "4521",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94058,
+"start": ‘常喀尼墨尔根’,
+"end": 37268,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37268,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅尔赛",
+"人物ID": "4521",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93853,
+"start": ‘索尔果’,
+"end": 37268,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37268,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅尔赛",
+"人物ID": "4521",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59211,
+"start": ‘费英东扎尔固齐’,
+"end": 37268,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37269,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福勒赫",
+"人物ID": "16",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95194,
+"start": ‘珠察’,
+"end": 37269,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37269,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福勒赫",
+"人物ID": "16",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95124,
+"start": ‘素尔达’,
+"end": 37269,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37269,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福勒赫",
+"人物ID": "16",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94983,
+"start": ‘莽喀尼’,
+"end": 37269,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37269,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福勒赫",
+"人物ID": "16",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94777,
+"start": ‘罗罗墨尔根’,
+"end": 37269,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37269,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福勒赫",
+"人物ID": "16",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94534,
+"start": ‘常喀尼墨尔根’,
+"end": 37269,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37269,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福勒赫",
+"人物ID": "16",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94135,
+"start": ‘索尔果’,
+"end": 37269,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37269,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "福勒赫",
+"人物ID": "16",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59964,
+"start": ‘费英东扎尔固齐’,
+"end": 37269,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37270,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈宁阿",
+"人物ID": "17",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95249,
+"start": ‘素尔达’,
+"end": 37270,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37270,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈宁阿",
+"人物ID": "17",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95160,
+"start": ‘莽喀尼’,
+"end": 37270,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37270,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈宁阿",
+"人物ID": "17",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95016,
+"start": ‘罗罗墨尔根’,
+"end": 37270,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37270,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈宁阿",
+"人物ID": "17",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94796,
+"start": ‘常喀尼墨尔根’,
+"end": 37270,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37270,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈宁阿",
+"人物ID": "17",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94564,
+"start": ‘索尔果’,
+"end": 37270,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37270,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈宁阿",
+"人物ID": "17",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 66858,
+"start": ‘费英东扎尔固齐’,
+"end": 37270,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37271,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈尚阿",
+"人物ID": "18",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95251,
+"start": ‘素尔达’,
+"end": 37271,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37271,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈尚阿",
+"人物ID": "18",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95146,
+"start": ‘莽喀尼’,
+"end": 37271,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37271,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈尚阿",
+"人物ID": "18",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95019,
+"start": ‘罗罗墨尔根’,
+"end": 37271,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37271,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈尚阿",
+"人物ID": "18",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94806,
+"start": ‘常喀尼墨尔根’,
+"end": 37271,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37271,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈尚阿",
+"人物ID": "18",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94563,
+"start": ‘索尔果’,
+"end": 37271,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37271,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈尚阿",
+"人物ID": "18",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 66859,
+"start": ‘费英东扎尔固齐’,
+"end": 37271,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37272,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "颇尔喷",
+"人物ID": "38",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94877,
+"start": ‘珠察’,
+"end": 37272,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94645,
+"start": ‘素尔达’,
+"end": 37272,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94416,
+"start": ‘莽喀尼’,
+"end": 37272,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94028,
+"start": ‘罗罗墨尔根’,
+"end": 37272,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93767,
+"start": ‘常喀尼墨尔根’,
+"end": 37272,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93511,
+"start": ‘索尔果’,
+"end": 37272,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93216,
+"start": ‘费英东扎尔固齐’,
+"end": 37272,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 57747,
+"start": ‘图赖’,
+"end": 37272,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37273,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永谦",
+"人物ID": "39",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95072,
+"start": ‘珠察’,
+"end": 37273,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94932,
+"start": ‘素尔达’,
+"end": 37273,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94711,
+"start": ‘莽喀尼’,
+"end": 37273,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94469,
+"start": ‘罗罗墨尔根’,
+"end": 37273,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94046,
+"start": ‘常喀尼墨尔根’,
+"end": 37273,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93848,
+"start": ‘索尔果’,
+"end": 37273,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93560,
+"start": ‘费英东扎尔固齐’,
+"end": 37273,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93240,
+"start": ‘图赖’,
+"end": 37273,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 57748,
+"start": 37272,
+"end": 37273,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37274,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永泰",
+"人物ID": "40",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95068,
+"start": ‘珠察’,
+"end": 37274,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94910,
+"start": ‘素尔达’,
+"end": 37274,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94723,
+"start": ‘莽喀尼’,
+"end": 37274,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94501,
+"start": ‘罗罗墨尔根’,
+"end": 37274,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94089,
+"start": ‘常喀尼墨尔根’,
+"end": 37274,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93850,
+"start": ‘索尔果’,
+"end": 37274,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93562,
+"start": ‘费英东扎尔固齐’,
+"end": 37274,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 58505,
+"start": ‘图赖’,
+"end": 37274,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37275,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马哈达",
+"人物ID": "41",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95035,
+"start": ‘珠察’,
+"end": 37275,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94911,
+"start": ‘素尔达’,
+"end": 37275,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94705,
+"start": ‘莽喀尼’,
+"end": 37275,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94471,
+"start": ‘罗罗墨尔根’,
+"end": 37275,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 94063,
+"start": ‘常喀尼墨尔根’,
+"end": 37275,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93847,
+"start": ‘索尔果’,
+"end": 37275,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 93561,
+"start": ‘费英东扎尔固齐’,
+"end": 37275,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "r": {
+"identity": 58506,
+"start": ‘图赖’,
+"end": 37275,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+
+
+
+    "p2": {
+"identity": 37276,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "德善",
+"人物ID": "42",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95204,
+"start": ‘珠察’,
+"end": 37276,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37276,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "德善",
+"人物ID": "42",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95135,
+"start": ‘素尔达’,
+"end": 37276,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37276,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "德善",
+"人物ID": "42",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94958,
+"start": ‘莽喀尼’,
+"end": 37276,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37276,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "德善",
+"人物ID": "42",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94758,
+"start": ‘罗罗墨尔根’,
+"end": 37276,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37276,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "德善",
+"人物ID": "42",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94525,
+"start": ‘常喀尼墨尔根’,
+"end": 37276,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37276,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "德善",
+"人物ID": "42",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94132,
+"start": ‘索尔果’,
+"end": 37276,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37276,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "德善",
+"人物ID": "42",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93854,
+"start": ‘费英东扎尔固齐’,
+"end": 37276,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37276,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "德善",
+"人物ID": "42",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59214,
+"start": ‘图赖’,
+"end": 37276,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37277,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永庆",
+"人物ID": "43",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95206,
+"start": ‘珠察’,
+"end": 37277,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37277,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永庆",
+"人物ID": "43",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95131,
+"start": ‘素尔达’,
+"end": 37277,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37277,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永庆",
+"人物ID": "43",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94991,
+"start": ‘莽喀尼’,
+"end": 37277,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37277,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永庆",
+"人物ID": "43",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94778,
+"start": ‘罗罗墨尔根’,
+"end": 37277,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37277,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永庆",
+"人物ID": "43",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94538,
+"start": ‘常喀尼墨尔根’,
+"end": 37277,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37277,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永庆",
+"人物ID": "43",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94130,
+"start": ‘索尔果’,
+"end": 37277,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37277,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永庆",
+"人物ID": "43",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93860,
+"start": ‘费英东扎尔固齐’,
+"end": 37277,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37277,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永庆",
+"人物ID": "43",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59215,
+"start": ‘图赖’,
+"end": 37277,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37278,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "金辉",
+"人物ID": "44",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95211,
+"start": ‘珠察’,
+"end": 37278,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37278,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "金辉",
+"人物ID": "44",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95115,
+"start": ‘素尔达’,
+"end": 37278,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37278,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "金辉",
+"人物ID": "44",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94961,
+"start": ‘莽喀尼’,
+"end": 37278,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37278,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "金辉",
+"人物ID": "44",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94769,
+"start": ‘罗罗墨尔根’,
+"end": 37278,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37278,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "金辉",
+"人物ID": "44",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94550,
+"start": ‘常喀尼墨尔根’,
+"end": 37278,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37278,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "金辉",
+"人物ID": "44",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94126,
+"start": ‘索尔果’,
+"end": 37278,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37278,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "金辉",
+"人物ID": "44",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93859,
+"start": ‘费英东扎尔固齐’,
+"end": 37278,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37278,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "金辉",
+"人物ID": "44",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59216,
+"start": ‘图赖’,
+"end": 37278,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37279,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔泰",
+"人物ID": "45",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95182,
+"start": ‘珠察’,
+"end": 37279,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37279,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔泰",
+"人物ID": "45",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95138,
+"start": ‘素尔达’,
+"end": 37279,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37279,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔泰",
+"人物ID": "45",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94980,
+"start": ‘莽喀尼’,
+"end": 37279,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37279,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔泰",
+"人物ID": "45",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94774,
+"start": ‘罗罗墨尔根’,
+"end": 37279,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37279,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔泰",
+"人物ID": "45",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94536,
+"start": ‘常喀尼墨尔根’,
+"end": 37279,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37279,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔泰",
+"人物ID": "45",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94129,
+"start": ‘索尔果’,
+"end": 37279,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37279,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔泰",
+"人物ID": "45",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93855,
+"start": ‘费英东扎尔固齐’,
+"end": 37279,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37279,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔泰",
+"人物ID": "45",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59217,
+"start": ‘图赖’,
+"end": 37279,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37280,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴灵阿",
+"人物ID": "46",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95186,
+"start": ‘珠察’,
+"end": 37280,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37280,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴灵阿",
+"人物ID": "46",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95130,
+"start": ‘素尔达’,
+"end": 37280,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37280,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴灵阿",
+"人物ID": "46",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94967,
+"start": ‘莽喀尼’,
+"end": 37280,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37280,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴灵阿",
+"人物ID": "46",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94789,
+"start": ‘罗罗墨尔根’,
+"end": 37280,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37280,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴灵阿",
+"人物ID": "46",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94544,
+"start": ‘常喀尼墨尔根’,
+"end": 37280,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37280,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴灵阿",
+"人物ID": "46",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94134,
+"start": ‘索尔果’,
+"end": 37280,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37280,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴灵阿",
+"人物ID": "46",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93857,
+"start": ‘费英东扎尔固齐’,
+"end": 37280,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37280,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴灵阿",
+"人物ID": "46",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59218,
+"start": ‘图赖’,
+"end": 37280,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37281,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "胡什布",
+"人物ID": "47",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95221,
+"start": ‘珠察’,
+"end": 37281,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37281,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "胡什布",
+"人物ID": "47",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95140,
+"start": ‘素尔达’,
+"end": 37281,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37281,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "胡什布",
+"人物ID": "47",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94972,
+"start": ‘莽喀尼’,
+"end": 37281,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37281,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "胡什布",
+"人物ID": "47",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94790,
+"start": ‘罗罗墨尔根’,
+"end": 37281,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37281,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "胡什布",
+"人物ID": "47",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94542,
+"start": ‘常喀尼墨尔根’,
+"end": 37281,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37281,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "胡什布",
+"人物ID": "47",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94128,
+"start": ‘索尔果’,
+"end": 37281,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37281,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "胡什布",
+"人物ID": "47",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93858,
+"start": ‘费英东扎尔固齐’,
+"end": 37281,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37281,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "胡什布",
+"人物ID": "47",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59219,
+"start": ‘图赖’,
+"end": 37281,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p2": {
+"identity": 37282,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔萨",
+"人物ID": "48",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95185,
+"start": ‘珠察’,
+"end": 37282,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37282,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔萨",
+"人物ID": "48",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95099,
+"start": ‘素尔达’,
+"end": 37282,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37282,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔萨",
+"人物ID": "48",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94982,
+"start": ‘莽喀尼’,
+"end": 37282,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37282,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔萨",
+"人物ID": "48",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94761,
+"start": ‘罗罗墨尔根’,
+"end": 37282,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37282,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔萨",
+"人物ID": "48",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94552,
+"start": ‘常喀尼墨尔根’,
+"end": 37282,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37282,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔萨",
+"人物ID": "48",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94133,
+"start": ‘索尔果’,
+"end": 37282,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37282,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔萨",
+"人物ID": "48",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93856,
+"start": ‘费英东扎尔固齐’,
+"end": 37282,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37282,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔萨",
+"人物ID": "48",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59220,
+"start": ‘图赖’,
+"end": 37282,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37282,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "马尔萨",
+"人物ID": "48",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37283,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "敦柱",
+"人物ID": "4558",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 67645,
+"start": 37282,
+"end": 37283,
+"type": "侄子",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37284,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "苏瓦顔",
+"人物ID": "49",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94621,
+"start": ‘珠察’,
+"end": 37284,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37284,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "苏瓦顔",
+"人物ID": "49",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94397,
+"start": ‘素尔达’,
+"end": 37284,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37284,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "苏瓦顔",
+"人物ID": "49",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93978,
+"start": ‘莽喀尼’,
+"end": 37284,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37284,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "苏瓦顔",
+"人物ID": "49",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93746,
+"start": ‘罗罗墨尔根’,
+"end": 37284,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37284,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "苏瓦顔",
+"人物ID": "49",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93491,
+"start": ‘常喀尼墨尔根’,
+"end": 37284,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37284,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "苏瓦顔",
+"人物ID": "49",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93235,
+"start": ‘索尔果’,
+"end": 37284,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37284,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "苏瓦顔",
+"人物ID": "49",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 67568,
+"start": ‘图赖’,
+"end": 37284,
+"type": "弟弟",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37284,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "苏瓦顔",
+"人物ID": "49",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57735,
+"start": ‘费英东扎尔固齐’,
+"end": 37284,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37285,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "关保",
+"人物ID": "50",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95220,
+"start": ‘珠察’,
+"end": 37285,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37285,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "关保",
+"人物ID": "50",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95125,
+"start": ‘素尔达’,
+"end": 37285,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37285,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "关保",
+"人物ID": "50",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94962,
+"start": ‘莽喀尼’,
+"end": 37285,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37285,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "关保",
+"人物ID": "50",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94782,
+"start": ‘罗罗墨尔根’,
+"end": 37285,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37285,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "关保",
+"人物ID": "50",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94533,
+"start": ‘常喀尼墨尔根’,
+"end": 37285,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37285,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "关保",
+"人物ID": "50",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94123,
+"start": ‘索尔果’,
+"end": 37285,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37285,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "关保",
+"人物ID": "50",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93862,
+"start": ‘费英东扎尔固齐’,
+"end": 37285,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37284,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "苏瓦顔",
+"人物ID": "49",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37285,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "关保",
+"人物ID": "50",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59221,
+"start": 37284,
+"end": 37285,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94371,
+"start": ‘珠察’,
+"end": 37286,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93965,
+"start": ‘素尔达’,
+"end": 37286,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93722,
+"start": ‘莽喀尼’,
+"end": 37286,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93487,
+"start": ‘罗罗墨尔根’,
+"end": 37286,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93226,
+"start": ‘常喀尼墨尔根’,
+"end": 37286,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 67565,
+"start": ‘费英东扎尔固齐’,
+"end": 37286,
+"type": "弟弟",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 67570,
+"start": ‘图赖’,
+"end": 37286,
+"type": "弟弟",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57724,
+"start": ‘索尔果’,
+"end": 37286,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37287,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "葛浑德",
+"人物ID": "52",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94609,
+"start": ‘珠察’,
+"end": 37287,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37287,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "葛浑德",
+"人物ID": "52",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94389,
+"start": ‘素尔达’,
+"end": 37287,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37287,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "葛浑德",
+"人物ID": "52",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93969,
+"start": ‘莽喀尼’,
+"end": 37287,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37287,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "葛浑德",
+"人物ID": "52",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93741,
+"start": ‘罗罗墨尔根’,
+"end": 37287,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37287,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "葛浑德",
+"人物ID": "52",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93503,
+"start": ‘常喀尼墨尔根’,
+"end": 37287,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37287,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "葛浑德",
+"人物ID": "52",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93241,
+"start": ‘索尔果’,
+"end": 37287,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37287,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "葛浑德",
+"人物ID": "52",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57749,
+"start": 37286,
+"end": 37287,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+  
+    "p2": {
+"identity": 37288,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "萨穆哈",
+"人物ID": "53",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94875,
+"start": ‘珠察’,
+"end": 37288,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37288,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "萨穆哈",
+"人物ID": "53",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94664,
+"start": ‘素尔达’,
+"end": 37288,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37288,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "萨穆哈",
+"人物ID": "53",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94440,
+"start": ‘莽喀尼’,
+"end": 37288,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37288,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "萨穆哈",
+"人物ID": "53",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94012,
+"start": ‘罗罗墨尔根’,
+"end": 37288,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37288,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "萨穆哈",
+"人物ID": "53",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93781,
+"start": ‘常喀尼墨尔根’,
+"end": 37288,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37288,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "萨穆哈",
+"人物ID": "53",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93520,
+"start": ‘索尔果’,
+"end": 37288,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37288,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "萨穆哈",
+"人物ID": "53",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 58507,
+"start": 37286,
+"end": 37288,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37289,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "54",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94866,
+"start": ‘珠察’,
+"end": 37289,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37289,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "54",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94639,
+"start": ‘素尔达’,
+"end": 37289,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37289,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "54",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94434,
+"start": ‘莽喀尼’,
+"end": 37289,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37289,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "54",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94009,
+"start": ‘罗罗墨尔根’,
+"end": 37289,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37289,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "54",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93761,
+"start": ‘常喀尼墨尔根’,
+"end": 37289,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37289,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "54",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93519,
+"start": ‘索尔果’,
+"end": 37289,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37289,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "54",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 58508,
+"start": 37286,
+"end": 37289,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37290,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席汉",
+"人物ID": "55",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95070,
+"start": ‘珠察’,
+"end": 37290,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37290,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席汉",
+"人物ID": "55",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94894,
+"start": ‘素尔达’,
+"end": 37290,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37290,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席汉",
+"人物ID": "55",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94724,
+"start": ‘莽喀尼’,
+"end": 37290,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37290,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席汉",
+"人物ID": "55",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94490,
+"start": ‘罗罗墨尔根’,
+"end": 37290,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37290,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席汉",
+"人物ID": "55",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94094,
+"start": ‘常喀尼墨尔根’,
+"end": 37290,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37290,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席汉",
+"人物ID": "55",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93845,
+"start": ‘索尔果’,
+"end": 37290,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37290,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席汉",
+"人物ID": "55",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59222,
+"start": 37286,
+"end": 37290,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37291,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "布都瑚",
+"人物ID": "56",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95073,
+"start": ‘珠察’,
+"end": 37291,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37291,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "布都瑚",
+"人物ID": "56",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94903,
+"start": ‘素尔达’,
+"end": 37291,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37291,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "布都瑚",
+"人物ID": "56",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94741,
+"start": ‘莽喀尼’,
+"end": 37291,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37291,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "布都瑚",
+"人物ID": "56",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94514,
+"start": ‘罗罗墨尔根’,
+"end": 37291,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37291,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "布都瑚",
+"人物ID": "56",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94048,
+"start": ‘常喀尼墨尔根’,
+"end": 37291,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37291,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "布都瑚",
+"人物ID": "56",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93846,
+"start": ‘索尔果’,
+"end": 37291,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37291,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "布都瑚",
+"人物ID": "56",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59223,
+"start": 37286,
+"end": 37291,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37292,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席特库",
+"人物ID": "57",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95054,
+"start": ‘珠察’,
+"end": 37292,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37292,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席特库",
+"人物ID": "57",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94887,
+"start": ‘素尔达’,
+"end": 37292,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37292,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席特库",
+"人物ID": "57",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94710,
+"start": ‘莽喀尼’,
+"end": 37292,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37292,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席特库",
+"人物ID": "57",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94512,
+"start": ‘罗罗墨尔根’,
+"end": 37292,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37292,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席特库",
+"人物ID": "57",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94041,
+"start": ‘常喀尼墨尔根’,
+"end": 37292,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37292,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席特库",
+"人物ID": "57",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93844,
+"start": ‘索尔果’,
+"end": 37292,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37292,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席特库",
+"人物ID": "57",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59224,
+"start": 37286,
+"end": 37292,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37293,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永长",
+"人物ID": "58",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95202,
+"start": ‘珠察’,
+"end": 37293,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37293,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永长",
+"人物ID": "58",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95111,
+"start": ‘素尔达’,
+"end": 37293,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37293,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永长",
+"人物ID": "58",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94974,
+"start": ‘莽喀尼’,
+"end": 37293,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37293,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永长",
+"人物ID": "58",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94776,
+"start": ‘罗罗墨尔根’,
+"end": 37293,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37293,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永长",
+"人物ID": "58",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94523,
+"start": ‘常喀尼墨尔根’,
+"end": 37293,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37293,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永长",
+"人物ID": "58",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94316,
+"start": ‘索尔果’,
+"end": 37293,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37293,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永长",
+"人物ID": "58",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94248,
+"start": 37286,
+"end": 37293,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37292,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席特库",
+"人物ID": "57",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37293,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "永长",
+"人物ID": "58",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57750,
+"start": 37292,
+"end": 37293,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37294,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "奇尔赛",
+"人物ID": "59",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95212,
+"start": ‘珠察’,
+"end": 37294,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37294,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "奇尔赛",
+"人物ID": "59",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95107,
+"start": ‘素尔达’,
+"end": 37294,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37294,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "奇尔赛",
+"人物ID": "59",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94994,
+"start": ‘莽喀尼’,
+"end": 37294,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37294,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "奇尔赛",
+"人物ID": "59",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94787,
+"start": ‘罗罗墨尔根’,
+"end": 37294,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37294,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "奇尔赛",
+"人物ID": "59",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94521,
+"start": ‘常喀尼墨尔根’,
+"end": 37294,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37294,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "奇尔赛",
+"人物ID": "59",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94317,
+"start": ‘索尔果’,
+"end": 37294,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37286,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "巴本",
+"人物ID": "51",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37294,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "奇尔赛",
+"人物ID": "59",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94249,
+"start": 37286,
+"end": 37294,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37292,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席特库",
+"人物ID": "57",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37294,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "奇尔赛",
+"人物ID": "59",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57751,
+"start": 37292,
+"end": 37294,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94370,
+"start": ‘珠察’,
+"end": 37295,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93962,
+"start": ‘素尔达’,
+"end": 37295,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93719,
+"start": ‘莽喀尼’,
+"end": 37295,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93484,
+"start": ‘罗罗墨尔根’,
+"end": 37295,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93231,
+"start": ‘常喀尼墨尔根’,
+"end": 37295,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 67566,
+"start": ‘费英东扎尔固齐’,
+"end": 37295,
+"type": "弟弟",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57725,
+"start": ‘索尔果’,
+"end": 37295,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37296,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "顔岱",
+"人物ID": "61",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94631,
+"start": ‘珠察’,
+"end": 37296,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37296,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "顔岱",
+"人物ID": "61",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94382,
+"start": ‘素尔达’,
+"end": 37296,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37296,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "顔岱",
+"人物ID": "61",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93970,
+"start": ‘莽喀尼’,
+"end": 37296,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37296,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "顔岱",
+"人物ID": "61",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93742,
+"start": ‘罗罗墨尔根’,
+"end": 37296,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37296,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "顔岱",
+"人物ID": "61",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93505,
+"start": ‘常喀尼墨尔根’,
+"end": 37296,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37296,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "顔岱",
+"人物ID": "61",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93242,
+"start": ‘索尔果’,
+"end": 37296,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37296,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "顔岱",
+"人物ID": "61",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57752,
+"start": 37295,
+"end": 37296,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37297,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "鄂多辉",
+"人物ID": "62",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94611,
+"start": ‘珠察’,
+"end": 37297,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37297,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "鄂多辉",
+"人物ID": "62",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94392,
+"start": ‘素尔达’,
+"end": 37297,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37297,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "鄂多辉",
+"人物ID": "62",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93988,
+"start": ‘莽喀尼’,
+"end": 37297,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37297,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "鄂多辉",
+"人物ID": "62",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93734,
+"start": ‘罗罗墨尔根’,
+"end": 37297,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37297,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "鄂多辉",
+"人物ID": "62",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93502,
+"start": ‘常喀尼墨尔根’,
+"end": 37297,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37297,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "鄂多辉",
+"人物ID": "62",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93243,
+"start": ‘索尔果’,
+"end": 37297,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37297,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "鄂多辉",
+"人物ID": "62",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 57753,
+"start": 37295,
+"end": 37297,
+"type": "儿子",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37298,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席卜臣",
+"人物ID": "63",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94855,
+"start": ‘珠察’,
+"end": 37298,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37298,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席卜臣",
+"人物ID": "63",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94659,
+"start": ‘素尔达’,
+"end": 37298,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37298,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席卜臣",
+"人物ID": "63",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94443,
+"start": ‘莽喀尼’,
+"end": 37298,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37298,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席卜臣",
+"人物ID": "63",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93999,
+"start": ‘罗罗墨尔根’,
+"end": 37298,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37298,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席卜臣",
+"人物ID": "63",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93750,
+"start": ‘常喀尼墨尔根’,
+"end": 37298,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37298,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席卜臣",
+"人物ID": "63",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93544,
+"start": ‘索尔果’,
+"end": 37298,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37298,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "席卜臣",
+"人物ID": "63",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 58509,
+"start": 37295,
+"end": 37298,
+"type": "孙子",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37299,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈秦",
+"人物ID": "64",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95062,
+"start": ‘珠察’,
+"end": 37299,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37299,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈秦",
+"人物ID": "64",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94946,
+"start": ‘素尔达’,
+"end": 37299,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37299,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈秦",
+"人物ID": "64",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94692,
+"start": ‘莽喀尼’,
+"end": 37299,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37299,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈秦",
+"人物ID": "64",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94462,
+"start": ‘罗罗墨尔根’,
+"end": 37299,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37299,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈秦",
+"人物ID": "64",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94076,
+"start": ‘常喀尼墨尔根’,
+"end": 37299,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37299,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈秦",
+"人物ID": "64",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93815,
+"start": ‘索尔果’,
+"end": 37299,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37299,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "哈秦",
+"人物ID": "64",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59225,
+"start": 37295,
+"end": 37299,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37300,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅柱",
+"人物ID": "65",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95044,
+"start": ‘珠察’,
+"end": 37300,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37300,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅柱",
+"人物ID": "65",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94904,
+"start": ‘素尔达’,
+"end": 37300,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37300,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅柱",
+"人物ID": "65",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94726,
+"start": ‘莽喀尼’,
+"end": 37300,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37300,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅柱",
+"人物ID": "65",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94507,
+"start": ‘罗罗墨尔根’,
+"end": 37300,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37300,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅柱",
+"人物ID": "65",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94085,
+"start": ‘常喀尼墨尔根’,
+"end": 37300,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37300,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅柱",
+"人物ID": "65",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93814,
+"start": ‘索尔果’,
+"end": 37300,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37300,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "雅柱",
+"人物ID": "65",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59226,
+"start": 37295,
+"end": 37300,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+ 
+    "p2": {
+"identity": 37301,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "赛弼汉",
+"人物ID": "66",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95098,
+"start": ‘珠察’,
+"end": 37301,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37301,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "赛弼汉",
+"人物ID": "66",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94942,
+"start": ‘素尔达’,
+"end": 37301,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37301,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "赛弼汉",
+"人物ID": "66",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94715,
+"start": ‘莽喀尼’,
+"end": 37301,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37301,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "赛弼汉",
+"人物ID": "66",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94502,
+"start": ‘罗罗墨尔根’,
+"end": 37301,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37301,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "赛弼汉",
+"人物ID": "66",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94071,
+"start": ‘常喀尼墨尔根’,
+"end": 37301,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37301,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "赛弼汉",
+"人物ID": "66",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93813,
+"start": ‘索尔果’,
+"end": 37301,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37301,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "赛弼汉",
+"人物ID": "66",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59227,
+"start": 37295,
+"end": 37301,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+  
+    "p2": {
+"identity": 37302,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "67",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95047,
+"start": ‘珠察’,
+"end": 37302,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37302,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "67",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94892,
+"start": ‘素尔达’,
+"end": 37302,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37302,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "67",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94697,
+"start": ‘莽喀尼’,
+"end": 37302,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37302,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "67",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94474,
+"start": ‘罗罗墨尔根’,
+"end": 37302,
+"type": "五世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37302,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "67",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94082,
+"start": ‘常喀尼墨尔根’,
+"end": 37302,
+"type": "四世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37302,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "67",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 93816,
+"start": ‘索尔果’,
+"end": 37302,
+"type": "元孙",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "p1": {
+"identity": 37295,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "郎格",
+"人物ID": "60",
+"性别": "男"
+      }
+    },
+    "p2": {
+"identity": 37302,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "华色",
+"人物ID": "67",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 59228,
+"start": 37295,
+"end": 37302,
+"type": "曾孙",
+"properties": {
+
+      }
+    }
+  },
+
+    "p2": {
+"identity": 37303,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "五十八",
+"人物ID": "68",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95205,
+"start": ‘珠察’,
+"end": 37303,
+"type": "九世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37303,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "五十八",
+"人物ID": "68",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 95109,
+"start": ‘素尔达’,
+"end": 37303,
+"type": "八世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37303,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "五十八",
+"人物ID": "68",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94975,
+"start": ‘莽喀尼’,
+"end": 37303,
+"type": "七世孙",
+"properties": {
+
+      }
+    }
+  },
+    "p2": {
+"identity": 37303,
+"labels": [
+        "人物"
+      ],
+"properties": {
+"名": "五十八",
+"人物ID": "68",
+"性别": "男"
+      }
+    },
+    "r": {
+"identity": 94780,
+"start": ‘罗罗墨尔根’,
+"end": 37303,
+"type": "六世孙",
+"properties": {
+
+      }
+    }
+  }
+]
